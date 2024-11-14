@@ -1,14 +1,14 @@
 /******************
 Name: Dor Avigad
 ID: 327704441
-Assignment:
+Assignment: ex1
 *******************/
 #include <stdio.h>
 
 // REMIDER : YOU CANT USE ANY CONTROL FLOW OPERATIONS OR FUNCTIONS, ONLY BITWISE.
 
 int main() {
-  
+  int num;
   // What bit
   printf("What bit:\n");
   
