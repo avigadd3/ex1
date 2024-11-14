@@ -1,6 +1,6 @@
 /******************
-Name:
-ID:
+Name: Dor Avigad
+ID: 327704441
 Assignment:
 *******************/
 #include <stdio.h>
@@ -11,6 +11,7 @@ int main() {
   
   // What bit
   printf("What bit:\n");
+  
   /*Scan two integers (representing number and a position)
   Print the bit in this position. */
   
